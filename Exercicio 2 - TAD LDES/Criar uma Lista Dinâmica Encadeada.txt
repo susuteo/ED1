@@ -1,0 +1,28 @@
+Criar uma Lista Dinâmica Encadeada Simples (LDES) para armazenar uma sequência de dados climáticos, dia a dia, 
+com temperatura (média do dia em graus da temperatura com 1 casa após a virgula) e umidade (valor inteiro com o percentual mínimo 
+de umidade do ar no mesmo dia).
+
+Usar o TAD LDES e enviar para o RunCodes.ICMC com um arquivo MAKEFILE (Zip). 
+Inserção no final da lista.  
+
+Exemplo de Entrada: (a série de dados termina com o valor -100 
+(pois não temos uma temperatura de -100 graus Celsius na região).  
+
+33.3
+15
+37.2
+13
+18.1
+45
+-100
+
+Exemplo de Saída:
+
+Dia 1: 33.3 15
+Dia 2: 37.2 13
+Dia 3: 18.1 45
+
+Dia com 'D' maiúsculo. "Dia" segue um espaço depois ':' e mais um espaço, 
+temperatura (com 1 casa após a vírgula), espaço, valor umidade (inteiro). 
+
+Bom trabalho! 
